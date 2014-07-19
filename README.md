@@ -47,6 +47,7 @@ sailsgen(require('sails-generate-bower'), scope, function (err) {
 ```
 
 ### Credits
+- [sails-generate-gulp](https://github.com/smies/sails-generate-bower)
 - [The Sails, the Grunt and the Bower](http://milanito.github.io/sails%20javascript/2014/01/10/the-sails-the-grunt-and-the-bower/), by [Matthieu Rondeau](http://milanito.github.io/)
 - [sails-generate-gulp-bower](https://github.com/PaulAvery/sails-generate-gulp-bower), by [Paul Avery](https://github.com/PaulAvery)
 
@@ -70,7 +71,7 @@ See `FAQ.md`.
 ### License
 
 **[MIT](./LICENSE)**
-&copy; 2014 [James Smtih](http://github.com/smies)
+&copy; 2014 [Tarun Garg](http://github.com/tarun1793)
 
 [Sails](http://sailsjs.org) is free and open-source under the [MIT License](http://sails.mit-license.org/).
 
