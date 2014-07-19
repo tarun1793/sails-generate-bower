@@ -3,13 +3,10 @@
 # sails-generate-bower
 
 
-A `bower` generator for use with the Sails command-line interface.
+A `bower` generator for use with the Sails command-line interface. The JS files are addes to /assets/js/vendor directory.
 
 
 ### Installation
-
-Certain generators are installed by default in Sails, but they can be overridden.  Check the [Sails docs](http://sailsjs.org/#!documentation) for information on installing generator overrides / custom generators.
-
 <!--
 ```sh
 $ npm install sails-generate-bower -g
@@ -47,7 +44,7 @@ sailsgen(require('sails-generate-bower'), scope, function (err) {
 ```
 
 ### Credits
-- [sails-generate-gulp](https://github.com/smies/sails-generate-bower)
+- [sails-generate-bower](https://github.com/smies/sails-generate-bower) by [James Smith](https://github.com/smies]
 - [The Sails, the Grunt and the Bower](http://milanito.github.io/sails%20javascript/2014/01/10/the-sails-the-grunt-and-the-bower/), by [Matthieu Rondeau](http://milanito.github.io/)
 - [sails-generate-gulp-bower](https://github.com/PaulAvery/sails-generate-gulp-bower), by [Paul Avery](https://github.com/PaulAvery)
 
